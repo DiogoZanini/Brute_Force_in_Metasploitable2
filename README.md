@@ -8,6 +8,3 @@ Execute simulated attacks: brute force on FTP, automation of login attempts in w
 - VM Kali Linux
 - VM PfSense
 - VM Metasploitable2
-
-## Project file structure
-/logs : I/O collected during command execution

