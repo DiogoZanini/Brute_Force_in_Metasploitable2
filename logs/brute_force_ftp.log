@@ -1,0 +1,12 @@
+Medusa v2.3 [http://www.foofus.net] (C) JoMo-Kun / Foofus Networks <jmk@foofus.net>
+
+2025-11-28 19:51:34 ACCOUNT CHECK: [ftp] Host: 192.168.1.106 (1 of 1, 0 complete) User: root (1 of 3, 0 complete) Password: 123456 (1 of 3 complete)
+2025-11-28 19:51:37 ACCOUNT CHECK: [ftp] Host: 192.168.1.106 (1 of 1, 0 complete) User: root (1 of 3, 0 complete) Password: password (2 of 3 complete)
+2025-11-28 19:51:40 ACCOUNT CHECK: [ftp] Host: 192.168.1.106 (1 of 1, 0 complete) User: root (1 of 3, 0 complete) Password: msfadmin (3 of 3 complete)
+2025-11-28 19:51:43 ACCOUNT CHECK: [ftp] Host: 192.168.1.106 (1 of 1, 0 complete) User: admin (2 of 3, 1 complete) Password: 123456 (1 of 3 complete)
+2025-11-28 19:51:46 ACCOUNT CHECK: [ftp] Host: 192.168.1.106 (1 of 1, 0 complete) User: admin (2 of 3, 1 complete) Password: password (2 of 3 complete)
+2025-11-28 19:51:49 ACCOUNT CHECK: [ftp] Host: 192.168.1.106 (1 of 1, 0 complete) User: admin (2 of 3, 1 complete) Password: msfadmin (3 of 3 complete)
+2025-11-28 19:51:52 ACCOUNT CHECK: [ftp] Host: 192.168.1.106 (1 of 1, 0 complete) User: msfadmin (3 of 3, 2 complete) Password: 123456 (1 of 3 complete)
+2025-11-28 19:51:55 ACCOUNT CHECK: [ftp] Host: 192.168.1.106 (1 of 1, 0 complete) User: msfadmin (3 of 3, 2 complete) Password: password (2 of 3 complete)
+2025-11-28 19:51:55 ACCOUNT CHECK: [ftp] Host: 192.168.1.106 (1 of 1, 0 complete) User: msfadmin (3 of 3, 2 complete) Password: msfadmin (3 of 3 complete)
+2025-11-28 19:51:55 ACCOUNT FOUND: [ftp] Host: 192.168.1.106 User: msfadmin Password: msfadmin [SUCCESS]

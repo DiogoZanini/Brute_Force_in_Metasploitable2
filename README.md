@@ -27,7 +27,7 @@ hydra -L users.txt -P pass.txt 192.168.1.106 http-post-form "/dvwa/login.php:use
 ## Password Spraying SMB
 
 ```
-enum4linux -a 192.168.1.106 | tee enum4_output.txt
+enum4linux -a 192.168.1.106 | tee enum4_output.log
 ```
 
 ```
